@@ -1,0 +1,6 @@
+{
+  "name": "Vertical Spring, Combined Springs & Simple Pendulum Dynamics Studio",
+  "description": "Interactive high-precision physics laboratory simulating vertical spring-mass gravity independence, series/parallel spring combinations and spring cutting, and simple pendulum small-angle SHM dynamics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
